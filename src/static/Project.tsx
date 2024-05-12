@@ -1,4 +1,10 @@
 import Tag from "./Tag";
+import { Roboto } from 'next/font/google'
+ 
+const roboto = Roboto({
+  weight: '400',
+  subsets: ['latin'],
+})
 
 function Project ({ headline, image, text, tags, link,github }: { headline: string, image: string, text: string, tags: string[], link: string,github:string }) {
     return ( 
@@ -9,7 +15,7 @@ function Project ({ headline, image, text, tags, link,github }: { headline: stri
             <a className="p-1 bg-blue-300 rounded-lg text-blue-600 font-semibold border-2 border-gray-400" href={github}>Github Code</a>
         </div>
         <div className="p-4">
-            <div className="text-xl font-medium mb-4">{headline}</div>
+            <div className="text-2xl font-sans text-teal-300 font-bold mb-4">{headline}</div>
             <p>{text}</p>
             <ul className="mt-2 flex flex-wrap" aria-label="Technologies used:">
                 {tags.map((item, index) =>
