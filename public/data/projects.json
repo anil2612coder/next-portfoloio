@@ -1,25 +1,53 @@
 {
     "data": [
         {
-            "title": "Portfolio Website",
-            "image": "/images/PortfolioWebsite.webp",
-            "link": "",
-            "tags": ["Next.js", "Javascript", "Redux", "MUI"],
-            "text": "A portfolio website with responsive design that highlights professional work and services"
+            "title": "Linktree Clone - Your One Link For Everything",
+            "image": "/images/linktree.jpeg",
+            "link": "https://create-personal-portfolio.vercel.app/",
+            "github":"https://github.com/anil2612coder/linktree-clone-nextjs",
+            "tags": ["Next.js","React.js","Cloudinary","Tailwind","MongoDB","Next-Auth", "Javascript", "Mongoose"],
+            "text": "Best Project - A website where you can share everything you like, you can make your own portfolio , we can use this in stand up comedy where comedians want to share your tour ,date and city wise they can make profile and share this now whoever comes to their profile they can see every link and click on those links They can go to bookmyshow and book your ticket, it's link linktree ,More Fuction use it"
         },
         {
-            "title": "Trading App",
-            "image": "/images/TradingApp.webp",
-            "link": "",
-            "tags": ["Next.js", "Typescript", "Tailwind CSS"],
-            "text": "A single-page application with responsive design that highlights professional work"
+            "title": "Youtube Full Stack With Admin panel",
+            "image": "/images/youtube.jpeg",
+            "link": "https://youtube-clone-nextjs-vj9j.vercel.app/",
+            "github":"https://github.com/anil2612coder/youtube-clone-nextjs",
+            "tags": ["Next.js","Typescript","React.js","Cloudinary","Tailwind","Prisma","MongoDB","Next-Auth","Javascript"],
+            "text": "On this website you can sign up using Google then you can make your channel and upload video, if someone comes to this website without signup they can see video, subscribe channel, like , dislike video, search video , get suggestion video, get subscription video which channel they subscribe and more , Now create Your Channel And upload video and enjoy"
         },
         {
-            "title": "Photo Website",
-            "image": "/images/PhotoWebsite.webp",
-            "link": "",
-            "tags": ["React.js", "Typescript", "Tailwind CSS", "Redux"],
-            "text": "A website to curate and share photos that capture life's most memorable moments."
+            "title": "Real-Time Chat Application",
+            "image": "/images/chat-appliaciton.jpeg",
+            "link": "https://real-time-chat-website.onrender.com/",
+            "github":"https://github.com/anil2612coder/real-time-chat-application-",
+            "tags": ["React.js","Socket.io","Node.js","Tailwind","Express.js","MongoDB","Mongoose","Javascript","JWT"],
+            "text": "On this website you can create you profile and chat with anyone who is on this website when you start chat and send message audio comes and search someone with whom you want to talk, this website works on real time we use Socket.io"
+        },
+        {
+            "title": "Ecommerce Website - with Admin Panel",
+            "image": "/images/ecommerce.jpeg",
+            "link": "https://creative-praline-c065c8.netlify.app/",
+            "github":"https://github.com/anil2612coder/Ecommerce-Website",
+            "tags": ["React.js","Node.js","Express.js","MongoDB","Javascript","context.Api","MongoDB","Next-Auth","Javascript","Jwt"],
+            "text": "In this ecommerce website I created two type functionality (1)- One is for seller who wants to sell items can create category and upload item but he has to take permission from company so they can make him admin then he can go now admin dashboard (For Admin Login - gmail (anilkumar@gmail.com) , password (anilkumar) ) ,(2)- Second is for customer who wants to buy item can select item ,check similar item, add item in card , buy item also make payment"
+        },
+        {
+            "title": "Expence-Managment Application",
+            "image": "/images/expense.webp",
+            "link": "https://64eda7743125d6321d9174dc--euphonious-pony-f302a4.netlify.app/",
+            "github":"https://github.com/anil2612coder/Expense-management",
+            "tags": ["React.js","Node.js","Express.js","MongoDB","Javascript","Redux","MongoDB","Next-Auth","Javascript","Jwt"],
+            "text": "In this website you can manage income and expense ,add item prices, category and others , watch them in the table and graph , also you can choose time weekly, monthly, yearly and custom time, You can register ,login ,add item , remove item and watch expense and income in percentage"
+        },
+        {
+            "title": "Social Media Application",
+            "image": "/images/social-media.jpeg",
+            "link": "https://charming-cheesecake-1a4e58.netlify.app/",
+            "github":"https://github.com/anil2612coder/Social-Media",
+            "tags": ["React.js","Node.js","Express.js","MongoDB","Javascript","Redux","MongoDB","Next-Auth","Javascript","Jwt"],
+            "text": "You can register and login in this website , also follow and unfollow someone (if you follow someone you can see their post also can do like and dislike and post comes on this web date wise like that post come first which post latest"
         }
+        
     ]
 }
