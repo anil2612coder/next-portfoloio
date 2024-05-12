@@ -33,11 +33,11 @@
             "text": "In this ecommerce website I created two type functionality (1)- One is for seller who wants to sell items can create category and upload item but he has to take permission from company so they can make him admin then he can go now admin dashboard (For Admin Login - gmail (anilkumar@gmail.com) , password (anilkumar) ) ,(2)- Second is for customer who wants to buy item can select item ,check similar item, add item in card , buy item also make payment"
         },
         {
-            "title": "Expence-Managment Application",
+            "title": "Expense-Managment Application",
             "image": "/images/expense.webp",
             "link": "https://64eda7743125d6321d9174dc--euphonious-pony-f302a4.netlify.app/",
             "github":"https://github.com/anil2612coder/Expense-management",
-            "tags": ["React.js","Node.js","Express.js","MongoDB","Javascript","Redux","MongoDB","Next-Auth","Javascript","Jwt"],
+            "tags": ["React.js","Node.js","Express.js","MongoDB","Javascript","Redux","MongoDB","Javascript","Jwt"],
             "text": "In this website you can manage income and expense ,add item prices, category and others , watch them in the table and graph , also you can choose time weekly, monthly, yearly and custom time, You can register ,login ,add item , remove item and watch expense and income in percentage"
         },
         {
